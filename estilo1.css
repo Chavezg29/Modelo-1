@@ -1,0 +1,57 @@
+	
+	* { font-family:  Cambria,'PT Sans', Verdana, sans-serif;  padding: 0.2em;  font-size: 105%;  text-align: justify;  margin-left: 5px;
+					margin-right: 15px;}	
+	a {text-decoration:none; }
+	/*Página en general*/
+	
+	
+	.titulo {font-variant: small-caps; color:  #990033; text-align: right; letter-spacing: 2px; text-shadow: 5px 3px 6px #bdbdbd;
+			font-size: 580%;  padding: 0.2em; font-weight: 700;} 
+	/*Titulo de la Pagina*/
+	
+
+	body { background-image: url("images/circulo.jpg"); background-attachment: fixed.; background-repeat: no-repeat; background-position: 28% 1%;
+			filter: saturate(100%);}
+	/*Imagen de fondo(logo)*/
+	
+	
+	#navegador ul{list-style-type: none; text-align: right; background-color:  #dce775;    
+				text-decoration: none;  margin-left: 50px;  margin-right: 25px;}
+	#navegador li{display: inline; font-size: 105%; text-align: justify;  margin: 0 1px 0 0; text-shadow: 7px 4px 5px  #d0d3d4 ; margin-left: 90px; 
+				margin-right: 20px;}
+	.imagen:hover {filter: opacity(.3);}
+	/*Barra de navegación*/
+	
+		
+	.borde {margin-left: 90px; margin-right: 10px;}
+	.contenedor:hover .borde {filter: grayscale(40%);}
+	.contenedor {overflow:hidden;}
+	/*Imagen principal*/
+	
+	
+	.subtitulo {text-align: center; font-size: 200%; font-weight: 600; color: #212f3c; text-shadow:  3px 3px 5px  #abb2b9;}
+	p.primeralinea {text-indent: 40px; text-align: center;}
+	#linea {text-align: center;  font-size: 150%; }
+	/*Subtítulos y párrafos*/
+	
+	
+	#menu ul{list-style-type: none; text-align: center; background-color:  #dce775; text-decoration: none; margin-right: 60px;
+			margin-left: 20px; border-style: inset;}
+	#menu li{display: inline; font-size: 105%; text-align: justify; text-shadow: 7px 4px 5px  #d0d3d4 ; margin-left: 100px; 
+			margin-right: 20px;}
+	/*Navegador productos*/
+
+
+	.imagen:hover {webkit-transform:scale(0.1);transform:scale(0.9);}
+	.mayuscula {font-variant: small-caps; text-align: center; font-size: x-large; font-style: italic;}
+	.texto { font-size: medium; text-align: justify;}
+	#header { width: 100%;  background-color:  #2e7d32; height: 50px;}
+	#cajas {margin: auto; width: 1000px; }
+	#primero {width:300px; float: left; height: 650px;}
+	#segundo {width: 300px; float: left; height: 650px;}
+	#tercero {width: 300px; float: left; height: 650px;}
+	#cuarto {width: 300px; float: left; height: 300px;}
+	#quinto {width: 300px; float: left; height: 300px;}
+	#sexto {width: 300px; float: left; height: 300px;}
+	/*Estructura y diseño de productos*/
+	

@@ -1,0 +1,30 @@
+	
+	* { font-family: Cambria,'PT Sans', Verdana, sans-serif;  padding: 0.4em;  font-size: 105%;  text-align: justify;  margin-left: 10px;
+	margin-right: 20px;}
+	a {text-decoration:none; } 
+	/*Toda la página*/
+	
+	.destacado { color:  #cd6155 ; font-size: 700%; font-style: normal; padding: 0.3em; font-weight: 400; text-align: center; margin-left: 50px;
+				text-shadow:  3px 3px 5px   #17202a, 3px 3px 5px   #17202a  ;  letter-spacing: 2px;}
+	/*Nombre de la Página*/
+	
+	body { background-image: url("images/fondo2.jpg"); background-attachment: fixed.; background-repeat: no-repeat; background-position: 49% 1% ;
+				filter: saturate(105%);}
+	/*Imagen de fondo (logo)*/
+	
+	#navegador ul{list-style-type: none; text-align: center; background-color: #f8f9f9;  border: 5px outset; border-color: #f0f3f4;   
+		text-decoration: none;  margin-left: 220px;  margin-right: 220px;} 
+	#navegador li{display: inline; font-size: 120%; text-align: center; text-shadow: 7px 4px 5px # #f2f3f4;}
+	.imagen:hover {filter: opacity(.3);}
+	/*Barra de menu*/
+	
+	.texto {text-align: center; font-size: 160%;}
+	.imagenes {margin-left: 795px;}
+	.redes {margin-left: 740px;; font-size: 130%;}
+	/*Red social*/
+	
+	.piepagina {font-size: x-large; margin-left: 35px; text-align: center;}
+	/*Pie de pagina*/*/
+	
+	
+	

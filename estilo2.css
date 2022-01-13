@@ -1,0 +1,72 @@
+	
+	* { font-family: 'Andale mono',PT Sans, Verdana, monospace;   padding: 0.4em;  font-size: 97%;  text-align: justify;  margin-left: 20px;
+					margin-right: 40px;}
+	a {text-decoration:none; }
+	/*Página en general*/
+	
+	
+	.titulo { font-size: 400%; font-weight: 400; font-style: italic; color:  #FF3366; text-shadow:  3px 3px 5px   #FFCCFF, 3px 3px 5px  #330000; 
+			letter-spacing: 1px; }
+	/*Titulo Pagina*/
+	
+	
+	body { background-image: url("images/mandala1.jpg"); background-attachment: fixed.; background-repeat: no-repeat; background-position: 3% 3%;
+			filter: saturate(130%);}
+	/*Imagen de fondo(logo)*/
+	
+	
+	.aumentar {  font-size: 300%;  padding: 0.60em;  font-weight: 500; font-style: normal; text-align: center;}
+	/*Título del Blog*/
+	
+	#navegador ul{list-style-type: none; text-align: right; text-decoration: none;  margin-left: 450px;  margin-right: 10px; } 
+	#navegador li{display: inline; font-size: 105%; text-align: center;  margin: 0 1px 0 0; text-shadow: 7px 4px 5px  #d0d3d4 ; 
+				background-color: #f8f9f9}
+	.imagen:hover {filter: opacity(.4);}
+	/*Barra de navegación*/
+	
+	
+	.cita {text-align: right; font-size: large; font-style: italic;}
+	/*Cita*/
+	
+	
+	.enlace:hover {border-bottom: 1px solid; background:   #fbe9e7; padding: 0.5px 1px 0; filter: opacity(.5);}
+	/*Enlaces externos*/
+	
+	
+	.arreglo1 { font-size: x-large;  font-weight: bold;  padding: 0.5em;}
+	.arreglo2 { font-size: large;  font-weight: bold;  padding: 0.8em;}
+	/*Subtítulos h2*/
+	
+	
+	p.primeralinea {text-indent: 40px;}
+	/*Sangría de párrafos*/
+	
+	
+	.imágenes:hover {filter: grayscale(80%); }
+	#margen  {margin-left: 8px; margin-right: 3px;}
+	 /*Imágenes del Bósforo*/
+	 
+	
+	.interlineado li {line-height: 90%; font-size: medium; text-align: justify; margin-left: 340px;}
+	.interlineado1 {line-height: 80%; font: oblique 85% monospace; background-color: #fbfcfc; border: 3px none; }
+	/*Listas y tabla-Precio productos*/
+	
+	
+	.versalita { font-variant: small-caps;  font-size: 125%;}
+	/*Títulos de lugares a visitar*/
+
+	
+	.contenedor:hover .borde {-webkit-transform:scale(0.1);transform:scale(0.9);}
+	.contenedor {overflow:hidden;}
+	.borde { padding: 3px 10px;  border: #fae5d3 4px double;  border-top-left-radius: 20px;  border-bottom-right-radius: 20px; width: 700px;  
+			background-position: 51% 1% }
+	.espacio { margin-left: 20px; font-size: medium;}
+	/*Descripción de lugares*/
+	
+	
+	.lista li { width: 500px; line-height: 100%;  line-height: 90%; font-size: medium; margin-left: 260px;  }
+	/*Lista de sugerencias*/
+	
+	
+	.piepagina {font-size: medium; margin-left: 35px; text-align: center;}
+	/*Pie de pagina*/
