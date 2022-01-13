@@ -14,13 +14,13 @@
 	
 	#navegador ul{list-style-type: none; text-align: center; background-color: #f8f9f9;  border: 5px outset; border-color: #f0f3f4;   
 		text-decoration: none;  margin-left: 220px;  margin-right: 220px;} 
-	#navegador li{display: inline; font-size: 120%; text-align: center; text-shadow: 7px 4px 5px # #f2f3f4;}
+	#navegador li{display: inline; font-size: 120%; text-align: justify; text-shadow: 7px 4px 5px # #f2f3f4;}
 	.imagen:hover {filter: opacity(.3);}
 	/*Barra de menu*/
 	
 	.texto {text-align: center; font-size: 160%;}
-	.imagenes {margin-left: 795px;}
-	.redes {margin-left: 740px;; font-size: 130%;}
+	.imagenes {margin-left: 530px;}
+	.redes {margin-left: 480px;; font-size: 130%;}
 	/*Red social*/
 	
 	.piepagina {font-size: x-large; margin-left: 35px; text-align: center;}
